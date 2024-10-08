@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amna-Khan-hub
 - 👀 I’m interested in Quantum material,Nanomaterials,Quantum devices,Quantum Communication,Data Science,AI,Machine learning.
 - 🌱 I’m currently learning Quantum Simulations,DataScience.
-- 💞️ I’m looking to collaborate on Quantum Research
-- 📫 How to reach me through my email:amnakhanabc2002@gmail.com
+- 💞️ I’m looking to collaborate on Quantum Research.
+- 📫 How to reach me: Through my Email:amnakhanabc2002@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Currently learning machine learning and web development, aiming to combine them with quantum computing for innovative projects! 🚀💻
 
